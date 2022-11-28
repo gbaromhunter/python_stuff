@@ -1,0 +1,14 @@
+TODO: you can see a random card of the deck /// done
+TODO: you can see first card /// done
+TODO: you can see first X cards /// done
+TODO: you can see last X cards /// done
+TODO: you can shuffle decks /// done
+TODO: put first card in the end of the deck /// done
+TOOO: put first half of the deck in the end of the deck /// done
+TODO: you can divide the deck into smaller decks
+TODO: you can put individual cards in other decks
+TODO: you can put random cards into other decks
+TODO: create a player class that can hold cards
+TODO: create the concept of sette e mezzo
+TODO: create concept of ai player banco
+TODO: split deck in 2 parts instances of Deck class

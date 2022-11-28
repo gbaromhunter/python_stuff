@@ -1,0 +1,4 @@
+For enabling our python program to have Character recognition capabilities, we would be making
+use of pytesseract OCR library. The library could be installed onto our python environment by
+
+executing the following command in the command interpreter of the OS:-
