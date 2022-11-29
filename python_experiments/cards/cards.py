@@ -1,4 +1,4 @@
-# a simulation of a neapolitan deck
+# a simulation of a neapolitan deck with some functions
 
 import random
 
