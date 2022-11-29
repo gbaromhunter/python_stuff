@@ -1,4 +1,4 @@
-# some exercises about a deck of cards
+# a simulation of a neapolitan deck
 
 import random
 
@@ -19,9 +19,11 @@ class Card:
             raise ValueError("Il seme non è valido!")
 
     def get_n(self):
+        """getter for the cards number"""
         return self.number
 
     def get_s(self):
+        """getter for the cards seed"""
         return self.suit
 
     def __str__(self):
