@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="rearranged some files" />
+    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="maybe i'm starting to understand this git thing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -377,7 +377,7 @@
       <workItem from="1669652190178" duration="1196000" />
       <workItem from="1669720410285" duration="428000" />
       <workItem from="1669720861031" duration="258000" />
-      <workItem from="1669721140294" duration="237000" />
+      <workItem from="1669721140294" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="harmonic sum">
       <created>1652284008731</created>
@@ -498,7 +498,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669721220661</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="rearranged some files">
+      <created>1669721385006</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669721385006</updated>
+    </task>
+    <task id="LOCAL-00019" summary="rearranged some files">
+      <created>1669721646092</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669721646092</updated>
+    </task>
+    <task id="LOCAL-00020" summary="maybe i'm starting to understand this git thing">
+      <created>1669721811766</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669721811766</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +560,8 @@
     <MESSAGE value="cards works" />
     <MESSAGE value="first commit" />
     <MESSAGE value="rearranged some files" />
-    <option name="LAST_COMMIT_MESSAGE" value="rearranged some files" />
+    <MESSAGE value="maybe i'm starting to understand this git thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="maybe i'm starting to understand this git thing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_works$prob_test.coverage" NAME="prob_test Coverage Results" MODIFIED="1649158864752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_experiments/esercizi" />

@@ -45,21 +45,26 @@ class Deck:
         self.removed = []
 
     def g_cards(self):
+        """getter for the list of cards in the deck"""
         return self.cards_deck
 
     def r_next_card(self, n=1):
+        """removes the next n cards in the deck"""
         for _ in range(n):
             to_rem = self.cards_deck.pop(0)
             self.removed.append(to_rem)
 
     def reinstate(self):
+        """reinstate the removed cards in the deck"""
         while self.removed:
             self.cards_deck.append(self.removed.pop(0))
 
     def g_removed(self):
+        """getter for the list of removed cards"""
         return self.removed
 
     def g_len(self):
+        """return the current number of cards in the deck"""
         return len(self.g_cards())
 
     def __str__(self):
@@ -124,7 +129,7 @@ def create_new_deck():
 
 
 class Table:
-    """a class representing the table"""
+    """a class representing the table. WIP"""
 
     def __init__(self, cards_table=None):
         """initialise table attributes"""
@@ -134,7 +139,7 @@ class Table:
 
 
 class Player:
-    """a class representing the player"""
+    """a class representing the player. WIP"""
 
     def __init__(self, cards_player=None):
         """initialise player attributes"""
