@@ -1,4 +1,5 @@
 # a simulation of a neapolitan deck with some functions
+# a collaboration with Vanni
 
 import random
 
