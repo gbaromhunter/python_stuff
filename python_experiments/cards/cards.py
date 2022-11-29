@@ -1,4 +1,5 @@
 # some exercises about a deck of cards
+# let's hope we'll survive
 import random
 
 
