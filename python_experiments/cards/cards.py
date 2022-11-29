@@ -121,6 +121,16 @@ class Deck:
         p = {e: self.prob_n(e) for e in {k.get_n() for k in self.g_cards()}}
         return {e: [key for key in p if p[key] == e] for e in p.values()} if group else p
 
+    def most_prob(self, n):
+        """returns the n most probable cards"""
+        print("Ecco le probabilità più alte e le relative carte")
+        probs, joined = self.prob(), ""
+        for _ in range(n):
+            highest_p_cards = map(str, probs[max(probs.keys())])
+            joined += "-".join(highest_p_cards)
+            print(f"Probabilità: {max(probs.keys()) * 100}% \nCarte: {joined}")
+            del probs[max(probs.keys())]
+
 
 def create_new_deck():
     """create a new deck"""
@@ -153,3 +163,5 @@ class Player:
 
 d = create_new_deck()
 d.shuffle_deck()
+d.r_next_card(30)
+d.most_prob(1)
