@@ -144,4 +144,3 @@ class Player:
 
 d = create_new_deck()
 d.shuffle_deck()
-

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="cards works" />
+    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -370,7 +372,7 @@
       <workItem from="1669649198492" duration="1317000" />
       <workItem from="1669650521521" duration="88000" />
       <workItem from="1669650711089" duration="1375000" />
-      <workItem from="1669652190178" duration="436000" />
+      <workItem from="1669652190178" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="harmonic sum">
       <created>1652284008731</created>
@@ -456,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669651371201</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first commit">
+      <created>1669652937487</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652937487</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +504,8 @@
     <MESSAGE value="cards edited" />
     <MESSAGE value="cards revisioned" />
     <MESSAGE value="cards works" />
-    <option name="LAST_COMMIT_MESSAGE" value="cards works" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_works$prob_test.coverage" NAME="prob_test Coverage Results" MODIFIED="1649158864752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_experiments/esercizi" />
