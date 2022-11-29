@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="first commit">
+    <list default="true" id="567d6193-591c-4878-b9f7-02577af5b5ab" name="Changes" comment="rearranged some files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +68,12 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "application.passwordSafe"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Documents and Settings\Gianluca\Documenti\python_stuff\python_experiments\esercizi" />
       <recent name="C:\Documents and Settings\Gianluca\Documenti\python_works\python_experiments\drunk_walk" />
     </key>
   </component>
@@ -200,7 +201,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_experiments/some_probability.py" />
+      <option name="SCRIPT_NAME" value="C:\Documents and Settings\Gianluca\Documenti\python_stuff\python_experiments\esercizi\some_probability.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,6 +374,7 @@
       <workItem from="1669650521521" duration="88000" />
       <workItem from="1669650711089" duration="1375000" />
       <workItem from="1669652190178" duration="1196000" />
+      <workItem from="1669720410285" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="harmonic sum">
       <created>1652284008731</created>
@@ -465,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669652937487</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="rearranged some files">
+      <created>1669720561020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669720561020</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +514,8 @@
     <MESSAGE value="cards revisioned" />
     <MESSAGE value="cards works" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="rearranged some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="rearranged some files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_works$prob_test.coverage" NAME="prob_test Coverage Results" MODIFIED="1649158864752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_experiments/esercizi" />
