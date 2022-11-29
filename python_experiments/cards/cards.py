@@ -124,10 +124,10 @@ class Deck:
     def most_prob(self, n):
         """returns the n most probable cards"""
         print("Ecco le probabilità più alte e le relative carte")
-        probs, joined = self.prob(), ""
+        probs = self.prob()
         for _ in range(n):
             highest_p_cards = map(str, probs[max(probs.keys())])
-            joined += "-".join(highest_p_cards)
+            joined = "-".join(highest_p_cards)
             print(f"Probabilità: {max(probs.keys()) * 100}% \nCarte: {joined}")
             del probs[max(probs.keys())]
 
